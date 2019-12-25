@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Electronics and Communication Engineering, V.T.U, 2010
+* M.S. in Computer Engineering, University of Cincinnati, 2013
+* M.S. in Computer Science, University of Cincinnati, 2019
+* Ph.D in Electronics and Computer Engineering, UBC, 2023 (expected)
 
 Work experience
 ======
