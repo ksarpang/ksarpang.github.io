@@ -11,9 +11,9 @@ title                    : "Kishan Sarpangala"
 title_separator          : "-"
 name                     : &name "Kishan Sarpangala"
 description              : &description "Research Assistant at UBC"
-url                      : https://ksarpang1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ksarpang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ksarpang/ksarpang1.github.io"
+repository               : "ksarpang/ksarpang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
